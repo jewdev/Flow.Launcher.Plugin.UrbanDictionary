@@ -1,0 +1,12 @@
+{
+    "ID": "57696D7108C9401A9EC016BF63A86CCB",
+    "ActionKeyword": "ud",
+    "Name": "UrbanDictionary",
+    "Description": "Get the definition of any word using Urban Dictionary",
+    "Author": "jewdev",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.UrbanDictionary.dll"
+}
