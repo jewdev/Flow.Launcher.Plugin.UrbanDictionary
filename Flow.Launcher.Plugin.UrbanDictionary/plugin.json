@@ -4,7 +4,7 @@
     "Name": "UrbanDictionary",
     "Description": "Get the definition of any word using Urban Dictionary",
     "Author": "jewdev",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Language": "csharp",
     "Website": "https://github.com/jewdev/Flow.Launcher.Plugin.UrbanDictionary",
     "IcoPath": "icon.png",
